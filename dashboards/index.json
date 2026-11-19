@@ -3611,6 +3611,123 @@
       "previewSha256": "a519e21ffa00b55f1f96aba72606eecc201ef4ba9c8912f4cf19ac6010258425"
     },
     {
+      "id": "4567890.vincenzo123",
+      "name": "Vincenzo123-test",
+      "author": "4567890",
+      "description": "ffsdfs",
+      "version": "1",
+      "kind": "ride",
+      "tags": [],
+      "featured": false,
+      "published": "2026-11-19",
+      "updated": "2026-11-19",
+      "engine": "pov3d",
+      "canvas": {
+        "width": 1280,
+        "height": 720
+      },
+      "layouts": [
+        {
+          "width": 1280,
+          "height": 720,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 1200,
+          "height": 720,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 800,
+          "height": 384,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 1024,
+          "height": 768,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 1920,
+          "height": 720,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 1080,
+          "height": 1920,
+          "orientation": "portrait",
+          "when": "portrait"
+        },
+        {
+          "width": 1280,
+          "height": 800,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 1024,
+          "height": 600,
+          "orientation": "landscape",
+          "when": "landscape"
+        },
+        {
+          "width": 768,
+          "height": 1024,
+          "orientation": "portrait",
+          "when": "portrait"
+        },
+        {
+          "width": 1200,
+          "height": 1920,
+          "orientation": "portrait",
+          "when": "portrait"
+        }
+      ],
+      "orientations": [
+        "landscape",
+        "portrait"
+      ],
+      "requires": {
+        "obd": false,
+        "module": null,
+        "app": "0.1.72"
+      },
+      "usesObd": true,
+      "elements": [
+        "container.drawer",
+        "container.group",
+        "container.panel",
+        "decor.clock",
+        "decor.ellipse",
+        "decor.image",
+        "decor.text",
+        "map.app",
+        "map.camera",
+        "map.pov3d",
+        "scene.obd.classic",
+        "signal.sparkline",
+        "signal.text",
+        "signal.value",
+        "signal.weatherIcon",
+        "touch.appGrid",
+        "touch.button",
+        "touch.mediaCard",
+        "touch.quickSettings",
+        "touch.rail",
+        "widget.riderPanel"
+      ],
+      "path": "dashboards/files/4567890.vincenzo123.mhd",
+      "sha256": "e7a4d6a8a8c3651802bd266a1beefd602d1217f57c76c406a368d1fb179131a5",
+      "bytes": 137495,
+      "preview": "dashboards/previews/4567890.vincenzo123.png",
+      "previewSha256": "e093dd9035f8e11ce92dc7b35b860c8334b702a10d47daaeee9cc45787123697"
+    },
+    {
       "id": "moto-hub-studio.pov-windscreen",
       "name": "Windscreen",
       "author": "moto-hub-studio",
